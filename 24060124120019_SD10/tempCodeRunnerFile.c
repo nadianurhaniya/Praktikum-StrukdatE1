@@ -1,0 +1,2 @@
+bintree B;
+     bintree A;
